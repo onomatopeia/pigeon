@@ -12,5 +12,5 @@
 *.vsix
 
 # Build files
-.build/
-
+build/
+*.o
